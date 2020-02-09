@@ -8,3 +8,9 @@ O jogo da forca é um jogo em que o jogador tem que acertar qual é a palavra pr
     Descompacte-o
   
     Iniciar como adm o .exe
+    
+*NAVEGAÇÃO >> menus*
+
+    ▲ seta pra CIMA
+    ▼ seta pra BAIXO
+    ✦ seta pra DIREITA - escolhe
